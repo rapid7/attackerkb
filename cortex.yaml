@@ -1,0 +1,15 @@
+---
+info:
+  title: Attackerkb
+  description: Repo for creating-and-tracking issues related to AttackerKB
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/attackerkb
+  x-cortex-tag: attackerkb
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: offensive
+openapi: 3.0.1
+servers:
+- url: "/"
