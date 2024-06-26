@@ -9,7 +9,7 @@ info:
   x-cortex-tag: attackerkb
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: offensive
+  - tag: octo-and-labs
 openapi: 3.0.1
 servers:
 - url: "/"
